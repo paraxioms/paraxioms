@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
-img:
-importance: 3
+title: Re-engineering project - Image classification
+description: Re-engineering existing software to make it comply with patterns for good design and code structure, as well as to add new features.
+img: assets/img/3.jpg
+importance: 2
 category: work
 ---
 

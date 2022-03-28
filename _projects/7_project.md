@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
+title: Habitat preference of Deer
+description: GIS Project
 img:
-importance: 3
+importance: 4
 category: work
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
-img:
-importance: 3
+title: Air pollution in India investigation
+description: Report, data visualisation and analysis of air pollution in India and the effect of Covid-19  
+img: assets/img/3.jpg
+importance: 2
 category: work
 ---
 

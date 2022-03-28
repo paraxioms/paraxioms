@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
-img:
-importance: 3
+title: Impact of wind turbines on birds
+description: Environmental brief and literature review on the different threats of wind farms/turbines on a range of bird species and mitigation options.
+img: assets/img/3.jpg
+importance: 2
 category: work
 ---
 

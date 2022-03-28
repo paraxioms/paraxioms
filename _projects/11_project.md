@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
-img:
-importance: 3
+title: Handheld GPS Device
+description: Software engineering project of handheld GPS device - Team of 5
+img: assets/img/3.jpg
+importance: 2
 category: work
 ---
 

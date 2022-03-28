@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Catchment Management Plan - Water quality analysis
-description: GIS Project: Analysis of water quality for the East Devon region.
-img:
-importance: 3
+title: Environmental analysis - Farm point source of pollution
+description: Analytical chemistry project - Analysis of possible point source of pollution entering water stream
+img: assets/img/3.jpg
+importance: 2
 category: work
 ---
 
