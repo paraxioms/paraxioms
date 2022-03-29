@@ -16,9 +16,12 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-This website is still in progress!
 
-I am a recent graduate looking to begin my carreer. I have a background in Data Science with a specialisation in environmental data.
+This website is still in the very early stages of development!
+
+### background
+
+I am a recent graduate looking to begin my career. I have a background in Data Science with a specialisation in environmental data.
 - BSc Computer Science and Mathematics
 - MSc Artificial Intelligence (Data Science)
 - MSc Environmental Science
@@ -27,8 +30,10 @@ I am a recent graduate looking to begin my carreer. I have a background in Data 
 
 Proficient:
 - Object detection, Natural Language Processing
+
 Intermediate:
 - Image Classification
+
 Advanced:
 - Regression, Classification, Clustering, Forecasting
 
@@ -36,8 +41,10 @@ Advanced:
 
 Proficient:
 - R, Javascript, Haskell, Prolog, C
+
 Intermediate:
 - Java, C++, SQL, HTML
+
 Advanced:
 - Python
 
@@ -45,8 +52,10 @@ Advanced:
 
 Proficient:
 - SciPy, Spark-ML
+
 Intermediate:
 - Plotly, Statsmodels, Tensorflow
+
 Advanced:
 - Pandas, NumPy, SciKit-Learn, Matplotlib, Seaborn
 
